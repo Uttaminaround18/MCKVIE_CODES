@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "freeCodeCamp Dark Theme",
+    "editor.fontSize":18,
+    "code-runner.runInTerminal": true,
+    "workbench.settings.editor": "ui",
+    "explorer.confirmDelete": false,
+    "workbench.tips.enabled": true,
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "window.zoomLevel": 1,
+    "files.associations": {
+        "Assignment2.C": "cpp",
+        ".C": "cpp",
+        "LinkList.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp",
+        "LinkList_Delete.C": "cpp",
+        "random": "c",
+        "cstdio": "cpp",
+        "ctype.h": "c",
+        "stdio.h": "c"
+    }
+}
